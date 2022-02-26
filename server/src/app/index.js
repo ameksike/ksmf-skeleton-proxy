@@ -8,6 +8,7 @@
  * */
 const KsMf = require('ksmf');
 const path = require('path');
+const fs = require('fs');
 
 class AppModule extends KsMf.app.Module {
     async initApp() {
