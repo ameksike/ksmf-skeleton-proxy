@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ameksike/ksmf-skeleton-proxy",
   "license": "ISC",
   "dependencies": {
-    "ksmf": "^1.0.43"
+    "ksmf": "^1.0.44"
   },
   "devDependencies": {
     "jest": "26.6.0",
