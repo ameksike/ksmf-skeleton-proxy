@@ -17,10 +17,10 @@
                 "allow": {
                     "user": {
                         "tony": {
-                            "url": [
-                                ".*youtube.com.*",
-                                ".*googlevideo.com.*"
-                            ]
+                            "url": [ ".*" ]
+                        },
+                        "sergio": {
+                            "url": [ ".*github.com.*" ]
                         },
                         "*": {
                             "url": [".*google.com.*"]
@@ -88,10 +88,10 @@
                 "allow": {
                     "user": {
                         "tony": {
-                            "url": [
-                                ".*youtube.com.*",
-                                ".*googlevideo.com.*"
-                            ]
+                            "url": [ ".*" ]
+                        },
+                        "sergio": {
+                            "url": [ ".*github.com.*" ]
                         },
                         "*": {
                             "url": [".*google.com.*"]
@@ -116,7 +116,7 @@
                     "name": "Mr. Tony",
                     "password": "abcd-1234"
                 },
-                "sergui": {
+                "sergio": {
                     "name": "Mr. Sergio",
                     "password": "123654"
                 }
